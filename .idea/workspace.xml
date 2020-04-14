@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db78f325-36f2-4a5a-b145-02f515cd8ff4" name="Default Changelist" comment="" />
+    <list default="true" id="db78f325-36f2-4a5a-b145-02f515cd8ff4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NUMMETS_Project/NewtonRaphson$ColumnData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NUMMETS_Project/NewtonRaphson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NUMMETS_Project/NewtonRaphson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NUMMETS_Project/TrapezoidIntegration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NUMMETS_Project/TrapezoidIntegration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewtonRaphson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewtonRaphson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrapezoidIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrapezoidIntegration.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,24 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TrapezoidIntegration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+            <state relative-caret-position="85">
+              <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NewtonRaphson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="16" column="102" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="102" />
-              <folding>
-                <element signature="e#2427#2428#0" expanded="true" />
-                <element signature="e#2500#2501#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1734">
+              <caret line="102" column="126" selection-end-line="106" />
             </state>
           </provider>
         </entry>
@@ -45,11 +49,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NewtonRaphson.java" />
         <option value="$PROJECT_DIR$/src/TrapezoidIntegration.java" />
+        <option value="$PROJECT_DIR$/src/NewtonRaphson.java" />
       </list>
     </option>
   </component>
@@ -62,29 +69,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NUMMETS_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NUMMETS_Project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NUMMETS_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NUMMETS_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DORA-Document-Organizer-and-Repository-Arranger" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -102,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TrapezoidIntegration">
+  <component name="RunManager" selected="Application.NewtonRaphson">
     <configuration name="NewtonRaphson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NewtonRaphson" />
       <module name="NUMMETS_Project" />
@@ -119,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TrapezoidIntegration" />
         <item itemvalue="Application.NewtonRaphson" />
+        <item itemvalue="Application.TrapezoidIntegration" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +146,7 @@
       <window_info anchor="bottom" id="Sequence2" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -170,21 +159,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TrapezoidIntegration.java">
+    <entry file="file://$PROJECT_DIR$/src/NewtonRaphson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+        <state relative-caret-position="1734">
+          <caret line="102" column="126" selection-end-line="106" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewtonRaphson.java">
+    <entry file="file://$PROJECT_DIR$/src/TrapezoidIntegration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="16" column="102" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="102" />
-          <folding>
-            <element signature="e#2427#2428#0" expanded="true" />
-            <element signature="e#2500#2501#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
         </state>
       </provider>
     </entry>
