@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db78f325-36f2-4a5a-b145-02f515cd8ff4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NUMMETS_Project/NewtonRaphson$ColumnData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NUMMETS_Project/NewtonRaphson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NUMMETS_Project/NewtonRaphson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NUMMETS_Project/TrapezoidIntegration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NUMMETS_Project/TrapezoidIntegration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NewtonRaphson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewtonRaphson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrapezoidIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrapezoidIntegration.java" afterDir="false" />
-    </list>
+    <list default="true" id="db78f325-36f2-4a5a-b145-02f515cd8ff4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +116,14 @@
       <option name="presentableId" value="Default" />
       <updated>1586103454097</updated>
     </task>
+    <task id="LOCAL-00001" summary="It includes comments that will guide the reader in reading and understanding the code">
+      <created>1586884858994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586884858994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -146,7 +146,7 @@
       <window_info anchor="bottom" id="Sequence2" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -157,6 +157,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="It includes comments that will guide the reader in reading and understanding the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="It includes comments that will guide the reader in reading and understanding the code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/NewtonRaphson.java">
